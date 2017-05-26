@@ -1,1 +1,1 @@
-# try_lc
+This is my first Github repository.
